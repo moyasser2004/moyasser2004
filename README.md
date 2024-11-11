@@ -1,8 +1,16 @@
-- 👋 Hi, I'm Mohamed Yasser, a Computer Science student at the Faculty of Computing and Data Science, Alexandria.
-- 🎓 Currently learning Flutter, Java, SQL, PS, Python,R , C++,and Dart.
-- 💻 Interested in mobile app development and data sciences.
-- 📫 Reach me on https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
-- ⚡ Fun fact: Coding is my passion, and I enjoy exploring new technologies!
+👋 Hello there! I’m Mohamed Yasser, a passionate Computer Science student at the Faculty of Computing and Data Science, Alexandria.
+
+🔍 Currently Exploring:
+
+Data Science: From data wrangling to advanced machine learning, I’m diving deep into uncovering insights from data.
+Flutter Development: Crafting sleek, responsive mobile apps with a love for both creativity and functionality.
+🛠️ Tech Stack in Progress:
+Java | SQL | Python | R | Dart | C++ | PowerShell | (and, of course, Flutter!)
+
+🌐 Let’s Connect:
+Catch me on LinkedIn—always open for a chat about all things tech, data, and app development!
+
+✨ Fun Fact: Coding is my playground, and I'm always on the lookout for new tools and technologies to bring ideas to life.
 
 <!---
 moyasser2004/moyasser2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
