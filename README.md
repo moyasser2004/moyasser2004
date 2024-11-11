@@ -1,44 +1,66 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
-<h3 align="center">A passionate Flutter and Data Scientist Developer</h3>
+<h3 align="center">A passionate **Flutter** & **Data Science** Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moyasser2004&label=Profile%20views&color=0e75b6&style=flat" alt="moyasser2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyasser2004" alt="moyasser2004" /></a> </p>
-
-- 🔭 I’m currently working on [Machine Learning](https://github.com/moyasser2004/Machine_Learning)
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on [Smart classs room](https://github.com/moyasser2004/Smart_classs_room)
-
-- 🤝 I’m looking for help with [Deep Learning](https://github.com/moyasser2004/Deep_Learning)
-
-- 👨‍💻 All of my projects are available at [https://github.com/moyasser2004](https://github.com/moyasser2004)
-
-- 📝 I regularly write articles on [https://github.com/moyasser2004](https://github.com/moyasser2004)
-
-- 💬 Ask me about **Flutter and Data Science ,and Ai**
-
-- 📫 How to reach me **mohamedyasser.alkotp@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to.memoyasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to.memoyasser" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mohamedyasserkotp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedyasserkotp" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008757818870&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008757818870&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohamed yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamed yasser" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohamedyasser_a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamedyasser_a1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moyasser2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moyasser2004" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyasser2004&show_icons=true&locale=en&layout=compact" alt="moyasser2004" /></p>
+### 🚀 **About Me**:
+- 🔭 **Currently working on** [Machine Learning Projects](https://github.com/moyasser2004/Machine_Learning)
+- 🌱 **Currently learning** **Deep Learning** and exploring AI technologies
+- 👯 **Collaborating on** [Smart Classroom Project](https://github.com/moyasser2004/Smart_classroom)
+- 🤝 **Looking for help** with **Deep Learning** projects and challenges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moyasser2004&show_icons=true&locale=en" alt="moyasser2004" /></p>
+### 🔗 **Connect with me**:
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="30" width="30" alt="LinkedIn"/></a>
+  <a href="https://dev.to/dev.to.memoyasser" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/dev-to.png" height="30" width="30" alt="Dev.to"/></a>
+  <a href="https://kaggle.com/mohamedyasserkotp" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" height="30" width="30" alt="Kaggle"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100008757818870" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" height="30" width="30" alt="Facebook"/></a>
+  <a href="https://www.youtube.com/c/mohamedyasser" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/youtube.png" height="30" width="30" alt="YouTube"/></a>
+  <a href="https://www.hackerrank.com/mohamedyasser_a1" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/hackerrank.png" height="30" width="30" alt="HackerRank"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moyasser2004&" alt="moyasser2004" /></p>
+### 🛠️ **Technologies & Tools**:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-ml.png" alt="Azure ML"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+</p>
+
+### 📊 **Stats**:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moyasser2004&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moyasser2004&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyasser2004&theme=radical" alt="GitHub Streak"/>
+</p>
+
+### ✍️ **Writing Articles**:
+- **[Data Science Articles](https://github.com/moyasser2004)** on GitHub
+- **[Medium Articles](https://medium.com/@mohamedyasser)** on Medium (coming soon!)
+
+---
+
+**Fun Fact**: I'm always experimenting with new technologies in data science, Flutter development, and AI. Code is my art, and problem-solving is my craft!
+
+---
 
 
 <!---
