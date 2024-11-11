@@ -2,14 +2,11 @@
 <h3 align="center" style="color: #e0e0e0; font-family: 'Arial', sans-serif; font-size: 1.4em;">Aspiring <strong style="color: #FF9800;">Flutter Developer</strong> & <strong style="color: #2196F3;">Data Scientist</strong></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moyasser2004&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=moyasser2004&theme=onestar&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="border-radius: 8px;"/>
   </a>
 </p>
+
 ---
 
 ### 🚀 **About Me**
