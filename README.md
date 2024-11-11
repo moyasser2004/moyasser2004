@@ -41,7 +41,6 @@
   <img src="https://img.icons8.com/color/40/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/40/000000/tensorflow.png" alt="TensorFlow" />
   <img src="https://img.icons8.com/ios-filled/40/ffffff/flutter.png" alt="Flutter" />
-  <img src="https://img.icons8.com/ios-filled/40/ffffff/firebase.png" alt="Firebase" />
   <img src="https://img.icons8.com/color/40/000000/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/40/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/40/000000/git.png" alt="Git" />
