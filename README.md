@@ -25,7 +25,6 @@
 ### 🔗 **Let's Connect!**
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin-circled.png" alt="LinkedIn"/></a>
-  <a href="https://dev.to/dev.to.memoyasser" target="blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/dev.png" alt="Dev.to"/></a>
   <a href="https://www.kaggle.com/mohamedyasserkotp" target="blank"><img src="https://img.icons8.com/windows/30/ffffff/kaggle.png" alt="Kaggle"/></a>
 </div>
 
