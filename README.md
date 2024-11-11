@@ -23,10 +23,20 @@
 
 ---
 ### 🔗 **Let's Connect!**
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin-circled.png" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/mohamedyasserkotp" target="blank"><img src="https://img.icons8.com/windows/30/ffffff/kaggle.png" alt="Kaggle"/></a>
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/linkedin-circled.png" alt="LinkedIn" width="50" />
+  </a>
+  <a href="https://www.kaggle.com/mohamedyasserkotp" target="_blank">
+    <img src="https://img.icons8.com/windows/50/ffffff/kaggle.png" alt="Kaggle" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or explore my projects on [Kaggle](https://www.kaggle.com/mohamedyasserkotp)!
+</p>
+
 
 ---
 
