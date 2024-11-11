@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mohamed Yasser, a Computer Science student at the Faculty of Computing and Data Science, Alexandria.
-- 🎓 Currently learning Flutter, Java, SQL, PS, and Dart.
-- 💻 Interested in mobile app development and software engineering.
+- 🎓 Currently learning Flutter, Java, SQL, PS, Python,R , C++,and Dart.
+- 💻 Interested in mobile app development and data sciences.
 - 📫 Reach me on https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
 - ⚡ Fun fact: Coding is my passion, and I enjoy exploring new technologies!
 
