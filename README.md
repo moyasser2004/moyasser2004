@@ -49,7 +49,7 @@
 ---
 
 ### 📊 **GitHub Stats**
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; width: fit-content;">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=moyasser2004&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyasser2004&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=moyasser2004&theme=radical" alt="GitHub Streak" />
