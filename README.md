@@ -22,15 +22,55 @@
 - 📫 **Reach Me At:** mohamedyasser.alkotp@gmail.com
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's Connect!</title>
+    <style>
+        .connect-links {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
 
-### 🔗 **Let's Connect!**
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin-circled.png" alt="LinkedIn"/></a>
-  <a href="https://dev.to/dev.to.memoyasser" target="blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/dev.png" alt="Dev.to"/></a>
-  <a href="https://www.kaggle.com/mohamedyasserkotp" target="blank"><img src="https://img.icons8.com/windows/30/ffffff/kaggle.png" alt="Kaggle"/></a>
-  <a href="https://www.youtube.com/@mohamedyasser8407" target="blank"><img src="https://img.icons8.com/material-outlined/30/ffffff/youtube-play.png" alt="YouTube"/></a>
-  <a href="https://www.hackerrank.com/mohamedyasser_a1" target="blank"><img src="https://img.icons8.com/material-outlined/30/ffffff/hackerrank.png" alt="HackerRank"/></a>
-</div>
+        .connect-links a {
+            display: inline-block;
+            padding: 10px;
+            border-radius: 5px;
+            text-decoration: none;
+            color: #fff;
+            background-color: #333;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .connect-links a:hover {
+            background-color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="connect-links">
+        <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+            <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin-circled.png" alt="LinkedIn">
+        </a>
+        <a href="https://dev.to/dev.to.memoyasser" target="_blank">
+            <img src="https://img.icons8.com/ios-glyphs/30/ffffff/dev.png" alt="Dev.to">
+        </a>
+        <a href="https://www.kaggle.com/mohamedyasserkotp" target="_blank">
+            <img src="https://img.icons8.com/windows/30/ffffff/kaggle.png" alt="Kaggle">
+        </a>
+        <a href="https://www.youtube.com/@mohamedyasser8407" target="_blank">
+            <img src="https://img.icons8.com/material-outlined/30/ffffff/youtube-play.png" alt="YouTube">
+        </a>
+        <a href="https://www.hackerrank.com/mohamedyasser_a1" target="_blank">
+            <img src="https://img.icons8.com/material-outlined/30/ffffff/hackerrank.png" alt="HackerRank">
+        </a>
+    </div>
+</body>
+</html>
 
 ---
 
