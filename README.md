@@ -2,9 +2,10 @@
 <p align="center">Flutter Developer And Data Scientist</p>
 
 <p align='center'> 
-  <a href="https://www.instagram.com/_j_j_gajjar/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jay-gajjar-04/"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/people/Mohamed-Yasser/pfbid0wuc31kAg7oq7VudKk8q7s6JHSkCXrqZBXTtkRhY6EDid3sK9cuMs63fE8KzKW7pTl/?mibextid=ZbWKwL"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;&nbsp;
 </p>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <p align='center'>
