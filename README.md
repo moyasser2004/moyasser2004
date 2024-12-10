@@ -2,7 +2,7 @@
 <p align="center">Flutter Developer And Data Scientist</p>
 
 <p align='center'> 
-  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img height="80" src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-1536x1536.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img height="50" src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-1536x1536.png"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/people/Mohamed-Yasser/pfbid0wuc31kAg7oq7VudKk8q7s6JHSkCXrqZBXTtkRhY6EDid3sK9cuMs63fE8KzKW7pTl/?mibextid=ZbWKwL"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;&nbsp;
 </p>
 
