@@ -10,15 +10,14 @@
 <p align='center'>
 <code><img alt="Flutter" title="Flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img alt="dart" title="dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img alt="javascript" title="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="nodejs" title="nodejs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img alt="r" title="javascript" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_yIlE5zV-OMNa7TUOumjxp0n3mqjtppTTOzhTwcIt44zdDFKoJpj-y_zCdOMS0v4kuM&usqp=CAU"></code>
 <code><img alt="php" title="php" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img alt="react" title="react" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="bootstrap" title="bootstrap" height="20" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/bootstrap.png"></code>
+<code><img alt="TensorFlow" title="react" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsc-BDEWoD7zvDFTQFZdhi9KioGBsCVRtUW8szNwM2Lc8d-75ast2Z5JCW9dtLv0grbs&usqp=CAU"></code>
+<code><img alt="sklearn" title="bootstrap" height="20" src="https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg"></code>
 <code><img alt="firebase" title="firebase" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
 <code><img alt="github" title="github" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code>
-<code><img alt="html5" title="html5" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/html5.png?raw=true"></code>
-<code><img alt="npm" title="npm" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/npm.png?raw=true"></code>
+<code><img alt="python" title="html5" height="20" src="https://www.google.com/search?sca_esv=d89830226a4af884&rlz=1C1GCEU_enEG1080EG1080&sxsrf=ADLYWIK77KbuCM2ulIaUW31vboBQRm_VtA:1733844973081&q=python&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72qUv4GOvBp3LxAsC-35pUAerkpJXAbjp7SiKpRNzWuQb9xUokGJNu303CZ3oy6X9L_OFFIBsvnE4_JBpS9J3wcMAvCiJ_RpzivKQ7hsYWGUYGsHfK&sa=X&ved=2ahUKEwiU-9ztw52KAxWQTkEAHZF-HEkQtKgLegQIIBAB"></code>
+<code><img alt="pandas" title="npm" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKmkBqviJKR3yCj5F251eRodlrKmubG6ey7pJMGGLMs2CF23gBT_4QevLGRVUjcSXSkQ&usqp=CAU"></code>
 <code><img alt="mongodb" title="mongodb" height="20" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png"></code>
 <code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code>
 <code><img alt="material.io" title="material.io" height="20" src="https://mervick.github.io/material-design-icons/img/logo.svg"></code>
