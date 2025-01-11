@@ -17,7 +17,7 @@
 <code><img alt="sklearn" title="sklearn" height="20" src="https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg"></code>
 <code><img alt="firebase" title="firebase" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
 <code><img alt="github" title="github" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code>
-<code><img alt="python" title="python" height="20" src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png"></code>
+<code><img alt="python" title="python" height="20" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?resize=800%2C800&ssl=1"></code>
 <code><img alt="pandas" title="pandas" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKmkBqviJKR3yCj5F251eRodlrKmubG6ey7pJMGGLMs2CF23gBT_4QevLGRVUjcSXSkQ&usqp=CAU"></code>
 <code><img alt="mongodb" title="mongodb" height="20" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png"></code>
 <code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code>
