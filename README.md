@@ -1,9 +1,10 @@
-<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohamed_Yasser </h1>
+<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohamed_Yasser</h1>
 <p align="center">Flutter Developer And Data Scientist</p>
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img height="50" src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-1536x1536.png"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/people/Mohamed-Yasser/pfbid0wuc31kAg7oq7VudKk8q7s6JHSkCXrqZBXTtkRhY6EDid3sK9cuMs63fE8KzKW7pTl/?mibextid=ZbWKwL"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/moyasser2004"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -32,7 +33,13 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/moyasser2004">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/HackerRank_logo_2018.png" alt="HackerRank Badge" height="40">
-  </a>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/certificate/XXXXXX"><img src="https://www.coursera.org/favicon.ico" alt="Coursera Certificate" height="40"></a>
+</p>
+
+<h2 align="center">My Vision:</h2>
+<p align="center">
+  I am passionate about combining technology and creativity to develop innovative solutions that enhance user experiences and bring tangible value to businesses. With a focus on Flutter, Data Science, and machine learning, I am dedicated to continually improving my skills and staying ahead of industry trends.
 </p>
 
 <h2 align="center">Projects</h2>
@@ -48,17 +55,11 @@
   </a>
 </p>
 
-<hr>
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moyasser2004&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/moyasser2004)
-
 <h2 align="center">Stats</h2>
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.zohan.tech/api?username=moyasser2004&show_icons=true&theme=dracula&line_height=27" />
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyasser2004&theme=dark&hide_langs_below=1" />
 </p>
-
-<hr>
 
 <h2 align="center">Watch My Contribution Graph Get Eaten by the Snake 🐍</h2>
 ![memo snake gif](https://github.com/j-j-gajjar/j-j-gajjar/blob/output/github-contribution-grid-snake-dark.svg)
