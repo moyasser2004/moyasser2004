@@ -44,8 +44,7 @@
 
 
 <br/>
-<p align="left">
-    <img  src="https://github-readme-stats.zohan.tech/api/top-langs/?username=j-j-gajjar&theme=dark&hide_langs_below=1" />
+<p align="center">
     <img width="49.5%" src="https://github-readme-stats.zohan.tech/api?username=moyasserelkotp&show_icons=true&theme=dracula&line_height=27" />
 </p>
 <br>
